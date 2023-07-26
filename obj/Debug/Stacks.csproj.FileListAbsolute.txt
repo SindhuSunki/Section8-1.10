@@ -1,0 +1,8 @@
+D:\Simplilearn classes\Practice Projects\Section8\Stacks\Stacks\bin\Debug\Stacks.exe.config
+D:\Simplilearn classes\Practice Projects\Section8\Stacks\Stacks\bin\Debug\Stacks.exe
+D:\Simplilearn classes\Practice Projects\Section8\Stacks\Stacks\bin\Debug\Stacks.pdb
+D:\Simplilearn classes\Practice Projects\Section8\Stacks\Stacks\obj\Debug\Stacks.csproj.AssemblyReference.cache
+D:\Simplilearn classes\Practice Projects\Section8\Stacks\Stacks\obj\Debug\Stacks.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn classes\Practice Projects\Section8\Stacks\Stacks\obj\Debug\Stacks.csproj.CoreCompileInputs.cache
+D:\Simplilearn classes\Practice Projects\Section8\Stacks\Stacks\obj\Debug\Stacks.exe
+D:\Simplilearn classes\Practice Projects\Section8\Stacks\Stacks\obj\Debug\Stacks.pdb
